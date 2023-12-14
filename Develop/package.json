@@ -20,6 +20,10 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "css-loader": "^6.8.1",
+    "install": "^0.13.0",
+    "nodemon": "^2.0.4",
+    "npm": "^10.2.5",
+    "style-loader": "^3.3.3"
   }
 }
