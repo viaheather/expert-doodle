@@ -7,17 +7,21 @@ A text editor that runs in the browser. This is a single-page applicationt hat m
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
+- [Example](#example)
+- [Features](#features)
 
 ## Installation
 
-No installation needed. [Go here](https://expert-doodle-0d0c19c01a02.herokuapp.com/)
+No installation needed. [Go here](https://expert-doodle.onrender.com//)
 
 ## Credits
 
 [Original repo](https://github.com/coding-boot-camp/cautious-meme)
+
+## Example
+
+![Example](client/dist/assets/example.gif)
 
 ## Features
 
